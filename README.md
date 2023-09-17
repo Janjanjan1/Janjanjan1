@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on ERP ~ A specific warehouse and invoice management system used by one of the biggest retailers in Nepal. Also extensive Data Scrapping Solutions for the Nepali Stock Market.
+- 🔭 I’m currently working on ERP and BackTest ~ A specific warehouse and invoice management system used by one of the biggest retailers in Nepal. BackTest is currently an extensive Data Scrapping Solutions for the Nepali Stock Market.
 - 🌱 I’m currently learning Rust, Functional Programming and SvelteKit.
