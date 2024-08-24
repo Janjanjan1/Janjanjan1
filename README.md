@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 
 -->
-
-- 🔭 I’m currently working on ERP and BackTest ~ A specific warehouse and invoice management system used by one of the biggest retailers in Nepal. BackTest is currently an extensive Data Scrapping Solutions for the Nepali Stock Market.
-- 🌱 I’m currently learning FP, Systems Programming and Systems Design.
+math,cs.
+low-level stuff. 
+go,python,js,ts,svelte<3.
