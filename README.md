@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 
 -->
 math,cs.
-low-level stuff. 
-go,python,js,ts,svelte<3.
